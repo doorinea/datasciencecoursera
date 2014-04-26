@@ -1,0 +1,17 @@
+{
+    "contents" : "Hello World!\n========================================================\n\n## This is an R Markdown file\n\nThe sun is up the day is light\nHello World - it is Friday!!",
+    "created" : 1398451799916.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1516904807",
+    "id" : "2DD8A83D",
+    "lastKnownWriteTime" : 1398452533,
+    "path" : "~/datasciencecoursera/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
